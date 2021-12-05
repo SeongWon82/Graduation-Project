@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "160399144772",
+    "project_id": "fcmserver-b6cab",
+    "storage_bucket": "fcmserver-b6cab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160399144772:android:6166cf48345b29608c0911",
+        "android_client_info": {
+          "package_name": "com.seongwon.publictransportapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160399144772-0hv8laljkbkp8cks5akg4v73s55p4l9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seongwon.publictransportapp",
+            "certificate_hash": "4e4a9373e1fcaf8861cbc9734943ca00d33db0e7"
+          }
+        },
+        {
+          "client_id": "160399144772-1e0fdt88fnv87481jj6gl9gu2h5e6he7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAYeKnItqMuWeVz7Rl30bR7uyID5tyxbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160399144772-1e0fdt88fnv87481jj6gl9gu2h5e6he7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

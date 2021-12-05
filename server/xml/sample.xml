@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<response>
+	<comMsgHeader/>
+		<msgHeader>
+			<queryTime>2020-03-06 16:53:11.844</queryTime>
+			<resultCode>0</resultCode>
+			<resultMessage>정상적으로 처리되었습니다.</resultMessage>
+		</msgHeader>
+		<msgBody>
+			<busArrivalItem>
+				<flag>PASS</flag>
+				<locationNo1>4</locationNo1>
+				<locationNo2/>
+				<lowPlate1>0</lowPlate1>
+				<lowPlate2>0</lowPlate2>
+				<plateNo1>경기70바1798</plateNo1>
+				<plateNo2/>
+				<predictTime1>4</predictTime1>
+				<predictTime2/>
+				<remainSeatCnt1>-1</remainSeatCnt1>
+				<remainSeatCnt2>-1</remainSeatCnt2>
+				<routeId>200000037</routeId>
+				<staOrder>19</staOrder>
+				<stationId>200000177</stationId>
+			</busArrivalItem>
+		</msgBody>
+</response>

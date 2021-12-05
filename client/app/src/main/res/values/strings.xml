@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PublicTransportApp</string>
+    <string name="search_hint">버스 번호를 입력하세요</string>
+    <string name="nav_home">메인 메뉴</string>
+    <string name="nav_login">로그인</string>
+    <string name="nav_fav">즐겨찾기 목록</string>
+    <string name="nav_alram">알람 목록</string>
+    <string name="info_region">지역</string>
+    <string name="info_bustype">노선 유형</string>
+    <string name="info_first">평일 첫차</string>
+    <string name="info_last">평일 막차</string>
+    <string name="info_company">운수업체</string>
+    <string name="kaKao_native_key">c80fcc8c8621a9ea8096194776a398fe</string>
+</resources>
